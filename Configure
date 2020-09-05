@@ -2716,6 +2716,7 @@ print <<"EOF";
 ***   and include the output from the following command:           ***
 ***                                                                ***
 ***       perl configdata.pm --dump                                ***
+***       subscribe pormes17 on youtube                                                         ***
 ***                                                                ***
 ***   (If you are new to OpenSSL, you might want to consult the    ***
 ***   'Troubleshooting' section in the INSTALL.md file first)      ***
