@@ -20,6 +20,7 @@ pkg install unstable-repo -y
 pkg install x11-repo -y
 pkg install science-repo -y
 pkg install game-repo -y
+pkg install automake -y
 pkg install imlib2 -y
 pkg install inetutils -y
 pkg install json-c -y
