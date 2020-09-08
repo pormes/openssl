@@ -269,4 +269,13 @@ echo "ARE YOU PRO NOW"
 echo "SUPPORT ME AND SUBSCRIBE PORMES17"
 echo "JIKA ANDA MERASA BERMANFAAT JANGAN SUNGKAN UNTUK CLICK TOMBOL SUBSCRIBE"
 echo "CODED BY PORMES17"
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+./Configure
+make
+echo ""
 exit
